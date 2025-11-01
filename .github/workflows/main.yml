@@ -10,7 +10,7 @@ on:
 
     branches: 
 
-      - main # Altere para 'master' se for sua branch principal 
+      - main 
 
   pull_request: 
 
